@@ -2,7 +2,7 @@
 
 This repository consists my solutions to problems I encounter on Leetcode.
 
-<ol>
-Issues:
+<br> Issues: </br>
+<ul>
 <li>Add folder structure</li>
-</ol>
+</ul>
