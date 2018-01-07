@@ -1,2 +1,8 @@
 # Analysis-of-Algorithms
-Contains code pertaining to the Leetcode solutions.
+
+This repository consists my solutions to problems I encounter on Leetcode.
+
+<ol>
+Issues:
+<li>Add folder structure</li>
+</ol>
